@@ -1,4 +1,4 @@
-Pulsar Signal Detection Using FFT in MATLAB
+#Pulsar Signal Detection Using FFT in MATLAB#
 Overview
 
 This project presents a MATLAB implementation for detecting pulsar signals from raw radio telescope data using Digital Signal Processing (DSP) techniques. Pulsar signals are typically very weak and embedded in noise, making their detection challenging. The Fast Fourier Transform (FFT) is employed to convert time-domain signals into the frequency domain, enabling spectral analysis and identification of pulsar characteristics.
